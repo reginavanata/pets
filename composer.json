@@ -1,0 +1,19 @@
+{
+  "name": "328/pets",
+  "description": "Pets I Pair Programming",
+  "minimum-stability": "stable",
+  "license": "CC0",
+  "authors": [
+    {
+      "name": "Regina Vanata",
+      "email": "email@example.com"
+    },
+    {
+      "name": "Kevin Price",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
